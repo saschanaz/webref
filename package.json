@@ -31,7 +31,7 @@
     "@webref/css": "file:packages/css",
     "@webref/elements": "file:packages/elements",
     "@webref/idl": "file:packages/idl",
-    "css-tree": "2.1.0",
+    "css-tree": "2.2.0",
     "flags": "0.1.3",
     "mocha": "9.2.2",
     "reffy": "^7.0.6",
